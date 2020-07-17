@@ -1,5 +1,5 @@
 ## fbbrute.py - Facebook Brute Force
-# -*- coding: utf-8 -*-
+# -*- coding: rsd -*-
 ##
 import os
 import sys
@@ -12,8 +12,8 @@ __banner__ = """
        +=======================================+
        |..........Facebook Cracker v 1.........|
        +---------------------------------------+
-       |#Author: DedSecTL <dtlily>             |
-       |#Contact: Telegram @dtlily             |
+       |#Author: rsd <raju>                    |
+       |#Contact: whatsapp @6383437964         |
        |#Date: Fri Feb 8 10:15:49 2019         |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
